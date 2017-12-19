@@ -2,11 +2,11 @@
 
 ## Requirements
 
-* link:https://code.visualstudio.com/[VS-Code] text editor
-* link:https://nodejs.org/en/download/[node]
+* [VS-Code](https://code.visualstudio.com/) text editor
+* [node](https://nodejs.org/en/download/)
 * NPM which is bundled with node.
 * Webpack 
-    * use NPM to install link:https://webpack.js.org/guides/installation/[webpack]
+    * use NPM to install [webpack](https://webpack.js.org/guides/installation/)
 
 
 ## Setup
