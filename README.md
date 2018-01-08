@@ -31,5 +31,5 @@
       * Current Conditions
       * Bonus: Display precipitation in inches for snow or rain where applicable
       
-* Optionally: The project has an existing C# model that maps to the JSON response [10DayForecast](https://github.com/localOrganization/knockout-test/blob/master/Models/10DayForecast.cs). 
+* Optionally: The project has an existing C# model that maps to the JSON response [10DayForecast](/blob/master/Models/10DayForecast.cs). 
 
