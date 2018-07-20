@@ -138,60 +138,60 @@ namespace Models
         {
 
             [JsonProperty("in")]
-            public double inches { get; set; }
+            public double? inches { get; set; }
 
             [JsonProperty("mm")]
-            public int mm { get; set; }
+            public int? mm { get; set; }
         }
 
         public class QpfDay
         {
 
             [JsonProperty("in")]
-            public double inches { get; set; }
+            public double? inches { get; set; }
 
             [JsonProperty("mm")]
-            public int mm { get; set; }
+            public int? mm { get; set; }
         }
 
         public class QpfNight
         {
 
             [JsonProperty("in")]
-            public double inches { get; set; }
+            public double? inches { get; set; }
 
             [JsonProperty("mm")]
-            public int mm { get; set; }
+            public int? mm { get; set; }
         }
 
         public class SnowAllday
         {
 
             [JsonProperty("in")]
-            public double inches { get; set; }
+            public double? inches { get; set; }
 
             [JsonProperty("cm")]
-            public double cm { get; set; }
+            public double? cm { get; set; }
         }
 
         public class SnowDay
         {
 
             [JsonProperty("in")]
-            public double inches { get; set; }
+            public double? inches { get; set; }
 
             [JsonProperty("cm")]
-            public double cm { get; set; }
+            public double? cm { get; set; }
         }
 
         public class SnowNight
         {
 
             [JsonProperty("in")]
-            public double inches { get; set; }
+            public double? inches { get; set; }
 
             [JsonProperty("cm")]
-            public double cm { get; set; }
+            public double? cm { get; set; }
         }
 
         public class Maxwind
